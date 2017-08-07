@@ -5,7 +5,6 @@
 import sys
 from queue import *
 
-# this code is incomplete, it just print the first element of josephus number.
 def josephus():
     circle_queue = Queue()
 
